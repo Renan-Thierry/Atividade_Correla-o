@@ -1,0 +1,19 @@
+RESULTADOS DAS CORRELAÇÕES:
+
+    A correlação encontrada sugere fortemente que há uma associação significativa entre a idade das mães, situadas entre 13 e 19 anos
+ e o peso dos recém-nascidos que elas dão à luz. Em outras palavras, as evidências apontam que a idade materna nessa faixa etária 
+ está fortemente relacionada ao peso dos bebês ao nascer.
+
+CONCLUSÃO:
+
+    Com relação às sugestões para a empresa explorar essa correlação, ela poderia fornecer informações personalizadas sobre produtos 
+ para mães grávidas com base em sua idade e necessidades específicas. Por exemplo, poderia recomendar produtos de cuidados pré-natais
+diferentes para mulheres mais jovens e mais velhas, com base em suas necessidades nutricionais e de saúde específicas. A empresa 
+também poderia criar campanhas de marketing com informações específicas sobre nutrição e saúde para mulheres mais velhas que podem
+precisar de cuidados adicionais durante a gravidez. Além disso, a empresa poderia desenvolver produtos específicos para atender 
+às necessidades nutricionais de mulheres grávidas em diferentes faixas etárias, como vitaminas pré-natais formuladas especificamente para diferentes idades.
+
+CORRELAÇÃO:
+
+ Correlação Total do Dados foi de 0.96 e a media de Peso foi de 3003.5g
+
